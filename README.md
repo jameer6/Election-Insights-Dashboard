@@ -1,1 +1,1 @@
-# Kalvium-Task
+I've been working on scraping election data using Python. With the help of the requests and BeautifulSoup libraries, I successfully extracted key information such as candidate names, party affiliations, constituencies, and the number of seats won. I then used pandas to organize this raw data into tidy tables and CSV files for easier handling. Afterward, I imported the CSV file into Power BI to create visual reports and dashboards, enabling comprehensive analysis of the election results from various perspectives.
